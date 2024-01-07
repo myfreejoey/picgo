@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T14:02:33.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hs0ptQdHT5Zd8iOAeBYH" version="22.1.17" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-07T14:04:49.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_oeTdCGz_c-2ygrISXRD" version="22.1.17" type="github" pages="5">
   <diagram name="第 1 页" id="B2Zz0Hlr58g3wdDetUJ_">
     <mxGraphModel dx="988" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -669,7 +669,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KnZbNh6volXByP0b7Gd5-34" value="Enable命令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KnZbNh6volXByP0b7Gd5-34" value="←Enable命令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KnZbNh6volXByP0b7Gd5-35" value="&lt;font color=&quot;#ff0000&quot;&gt;缓存请求&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
@@ -736,8 +736,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KnZbNh6volXByP0b7Gd5-54" value="Disable命令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="480" width="80" height="30" as="geometry" />
+        <mxCell id="KnZbNh6volXByP0b7Gd5-54" value="←Disable命令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468.75" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KnZbNh6volXByP0b7Gd5-55" value="&lt;font color=&quot;#ff0000&quot;&gt;旧task继续执行&lt;br&gt;新请求缓存&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="463" y="525" width="110" height="30" as="geometry" />
@@ -762,7 +762,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KnZbNh6volXByP0b7Gd5-60" value="旧task执行完&lt;br&gt;注销实例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="463" y="580" width="101.5" height="30" as="geometry" />
+          <mxGeometry x="463.25" y="590" width="101.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
