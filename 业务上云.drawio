@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T14:06:01.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RGJIH9brCggeCZfiWmqA" version="22.1.17" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-07T17:23:26.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FbOQ_gM-hxlnDrEFkzhE" version="22.1.17" type="github" pages="5">
   <diagram name="第 1 页" id="B2Zz0Hlr58g3wdDetUJ_">
     <mxGraphModel dx="988" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -613,7 +613,7 @@
         <mxCell id="KnZbNh6volXByP0b7Gd5-2" value="实例1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="300" y="40" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="KnZbNh6volXByP0b7Gd5-3" value="实例2(扩容)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="KnZbNh6volXByP0b7Gd5-3" value="实例2(扩容)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="420" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="KnZbNh6volXByP0b7Gd5-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="KnZbNh6volXByP0b7Gd5-3">
@@ -696,7 +696,7 @@
         <mxCell id="KnZbNh6volXByP0b7Gd5-44" value="实例1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="300" y="400" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="KnZbNh6volXByP0b7Gd5-45" value="实例2(缩容)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="KnZbNh6volXByP0b7Gd5-45" value="实例2(缩容)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="KnZbNh6volXByP0b7Gd5-46" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="KnZbNh6volXByP0b7Gd5-45">
@@ -763,6 +763,42 @@
         </mxCell>
         <mxCell id="KnZbNh6volXByP0b7Gd5-60" value="旧task执行完&lt;br&gt;注销实例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="463.25" y="590" width="101.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KnZbNh6volXByP0b7Gd5-61" value="调用方" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="760" y="40" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KnZbNh6volXByP0b7Gd5-62" value="实例1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="890" y="40" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KnZbNh6volXByP0b7Gd5-63" value="实例2(扩容)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="40" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KnZbNh6volXByP0b7Gd5-66" value="调用方" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KnZbNh6volXByP0b7Gd5-69" value="请求key=123" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="125" as="sourcePoint" />
+            <mxPoint x="939.5" y="125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710.5" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnZbNh6volXByP0b7Gd5-72" value="请求key=123" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="154.17000000000002" as="sourcePoint" />
+            <mxPoint x="1060" y="154.17000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830.5" y="154.17000000000002" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnZbNh6volXByP0b7Gd5-73" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;X&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="135" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KnZbNh6volXByP0b7Gd5-75" value="同一key落在不同实例上" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="135" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
