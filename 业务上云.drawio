@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T10:18:42.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Roxaie9y7ZTpEfXpoIBF" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-15T10:20:53.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oDPXSykmYqIHee_Yag-_" version="22.1.16" type="github" pages="6">
   <diagram name="第 1 页" id="B2Zz0Hlr58g3wdDetUJ_">
     <mxGraphModel dx="1452" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -969,7 +969,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;1 实例修改&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;标记scale:down&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-15">
+        <mxCell id="hnXim7ay4U394bYLh8nl-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;1 实例修改&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;标记&lt;font color=&quot;#ff3333&quot;&gt;scale:down&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-15">
           <mxGeometry x="-0.4683" y="-1" relative="1" as="geometry">
             <mxPoint x="9" y="-31" as="offset" />
           </mxGeometry>
@@ -1002,7 +1002,7 @@
         <mxCell id="hnXim7ay4U394bYLh8nl-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnXim7ay4U394bYLh8nl-3" target="hnXim7ay4U394bYLh8nl-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-36" value="（修改标记后等待10s）&lt;br&gt;3 Disable命令" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-35">
+        <mxCell id="hnXim7ay4U394bYLh8nl-36" value="（修改标记后等待10s）&lt;br&gt;3 &lt;font color=&quot;#ff0000&quot;&gt;Disable&lt;/font&gt;命令" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-35">
           <mxGeometry x="-0.0898" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1035,7 +1035,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-45" value="&lt;div style=&quot;text-align: left;&quot;&gt;1 实例注册&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;标记scale:up&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-44">
+        <mxCell id="hnXim7ay4U394bYLh8nl-45" value="&lt;div style=&quot;text-align: left;&quot;&gt;1 实例注册&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;标记&lt;font color=&quot;#ff3333&quot;&gt;scale:up&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-44">
           <mxGeometry x="-0.4683" y="-1" relative="1" as="geometry">
             <mxPoint x="4" y="-31" as="offset" />
           </mxGeometry>
@@ -1067,7 +1067,7 @@
         <mxCell id="hnXim7ay4U394bYLh8nl-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="hnXim7ay4U394bYLh8nl-42" target="hnXim7ay4U394bYLh8nl-40" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-53" value="（注册后等待10s）&lt;br&gt;3 Enable命令" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-52">
+        <mxCell id="hnXim7ay4U394bYLh8nl-53" value="（注册后等待10s）&lt;br&gt;3 &lt;font color=&quot;#ff0000&quot;&gt;Enable&lt;/font&gt;命令" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-52">
           <mxGeometry x="-0.0898" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1084,13 +1084,13 @@
         <mxCell id="hnXim7ay4U394bYLh8nl-56" value="路由规则表-Normal" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="850" y="1192.5" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-60" value="路由规则表-ScaleDown" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+        <mxCell id="hnXim7ay4U394bYLh8nl-60" value="路由规则表-ScaleDown" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="850" y="1242.5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hnXim7ay4U394bYLh8nl-61" value="路由规则表-Normal" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="170" y="1192.5" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-62" value="路由规则表-ScaleUp" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+        <mxCell id="hnXim7ay4U394bYLh8nl-62" value="路由规则表-ScaleUp" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="170" y="1242.5" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
