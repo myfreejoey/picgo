@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T09:43:00.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SED2P16ZR4yPYZgG-I30" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-15T10:02:51.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8tRRERjNE2x7phxBtNDx" version="22.1.16" type="github" pages="6">
   <diagram name="第 1 页" id="B2Zz0Hlr58g3wdDetUJ_">
     <mxGraphModel dx="1452" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -957,24 +957,24 @@
           <mxGeometry x="1080" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hnXim7ay4U394bYLh8nl-4" value="Polaris平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="720" y="785" width="480" height="30" as="geometry" />
+          <mxGeometry x="720" y="785" width="580" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnXim7ay4U394bYLh8nl-3" target="hnXim7ay4U394bYLh8nl-4">
+        <mxCell id="hnXim7ay4U394bYLh8nl-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hnXim7ay4U394bYLh8nl-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1340" y="1040" as="sourcePoint" />
-            <mxPoint x="1240" y="800" as="targetPoint" />
+            <mxPoint x="1240" y="810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1280" y="1040" />
-              <mxPoint x="1280" y="800" />
+              <mxPoint x="1240" y="1030" />
+              <mxPoint x="1240" y="814" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;1 注册实例&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;标记scale:up&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-15">
+        <mxCell id="hnXim7ay4U394bYLh8nl-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;1 实例注册&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;标记scale:up&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-15">
           <mxGeometry x="-0.4683" y="-1" relative="1" as="geometry">
             <mxPoint x="9" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.123;exitY=1.004;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="hnXim7ay4U394bYLh8nl-4" target="hnXim7ay4U394bYLh8nl-1">
+        <mxCell id="hnXim7ay4U394bYLh8nl-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.106;exitY=1.002;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="hnXim7ay4U394bYLh8nl-4" target="hnXim7ay4U394bYLh8nl-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="970" y="880" as="sourcePoint" />
             <mxPoint x="900" y="820" as="targetPoint" />
@@ -988,8 +988,8 @@
         <mxCell id="hnXim7ay4U394bYLh8nl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1.017;exitY=0.561;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hnXim7ay4U394bYLh8nl-32" target="hnXim7ay4U394bYLh8nl-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-32" value="路由规则-Normal" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry x="850" y="890" width="130" height="60" as="geometry" />
+        <mxCell id="hnXim7ay4U394bYLh8nl-32" value="路由规则表-Normal" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="850" y="900" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hnXim7ay4U394bYLh8nl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnXim7ay4U394bYLh8nl-33" target="hnXim7ay4U394bYLh8nl-2">
           <mxGeometry relative="1" as="geometry">
@@ -998,8 +998,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-33" value="路由规则-上线中" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry x="850" y="960" width="130" height="60" as="geometry" />
+        <mxCell id="hnXim7ay4U394bYLh8nl-33" value="路由规则表-ScaleUp" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="850" y="960" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hnXim7ay4U394bYLh8nl-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnXim7ay4U394bYLh8nl-3" target="hnXim7ay4U394bYLh8nl-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1011,7 +1011,7 @@
         </mxCell>
         <mxCell id="hnXim7ay4U394bYLh8nl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hnXim7ay4U394bYLh8nl-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="980" y="979" as="sourcePoint" />
+            <mxPoint x="1000" y="980" as="sourcePoint" />
             <mxPoint x="1290" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
