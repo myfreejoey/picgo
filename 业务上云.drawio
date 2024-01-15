@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T10:21:38.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YvTXKGWDTmavC-fSW6rd" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-15T10:21:49.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="u3G9asGiLuhDGz1oBiEa" version="22.1.16" type="github" pages="6">
   <diagram name="第 1 页" id="B2Zz0Hlr58g3wdDetUJ_">
     <mxGraphModel dx="1452" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1084,13 +1084,13 @@
         <mxCell id="hnXim7ay4U394bYLh8nl-56" value="路由规则表-Normal" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="850" y="1192.5" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-60" value="路由规则表-ScaleDown" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="hnXim7ay4U394bYLh8nl-60" value="路由规则表-ScaleDown" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="850" y="1242.5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hnXim7ay4U394bYLh8nl-61" value="路由规则表-Normal" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="170" y="1192.5" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-62" value="路由规则表-ScaleUp" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="hnXim7ay4U394bYLh8nl-62" value="路由规则表-ScaleUp" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="170" y="1242.5" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
