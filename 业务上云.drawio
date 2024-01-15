@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T10:49:03.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="A5oGDlG88sJQqZ_JdLii" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-15T10:52:10.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ckS_hmdTu3Dk6IDv7a7j" version="22.1.16" type="github" pages="6">
   <diagram name="第 1 页" id="B2Zz0Hlr58g3wdDetUJ_">
     <mxGraphModel dx="1452" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1046,7 +1046,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-45" value="&lt;div style=&quot;text-align: left;&quot;&gt;1 实例注册&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;标记&lt;font color=&quot;#ff3333&quot;&gt;scale:up&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-44">
+        <mxCell id="hnXim7ay4U394bYLh8nl-45" value="&lt;div style=&quot;text-align: left;&quot;&gt;1 实例启动&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;标记&lt;font color=&quot;#ff3333&quot;&gt;scale:up&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-44">
           <mxGeometry x="-0.4683" y="-1" relative="1" as="geometry">
             <mxPoint x="-11" y="-45" as="offset" />
           </mxGeometry>
@@ -1146,7 +1146,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hnXim7ay4U394bYLh8nl-77" value="&lt;div style=&quot;text-align: left;&quot;&gt;5 实例注销&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-76">
+        <mxCell id="hnXim7ay4U394bYLh8nl-77" value="&lt;div style=&quot;text-align: left;&quot;&gt;5 实例停止&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hnXim7ay4U394bYLh8nl-76">
           <mxGeometry x="-0.4683" y="-1" relative="1" as="geometry">
             <mxPoint x="9" y="-31" as="offset" />
           </mxGeometry>
