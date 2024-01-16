@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T03:04:53.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gZ3nd2R0qWx0ur1QLjSd" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-16T03:05:20.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="90iD2d97Z5TnJHSmANIn" version="22.1.16" type="github" pages="6">
   <diagram name="第 1 页" id="B2Zz0Hlr58g3wdDetUJ_">
     <mxGraphModel dx="1452" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -681,7 +681,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wdGFb7-p_8IwhxU198yg" name="优雅机制">
-    <mxGraphModel dx="1001" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1452" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1327,8 +1327,8 @@
         <mxCell id="hnXim7ay4U394bYLh8nl-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.552;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="hnXim7ay4U394bYLh8nl-151" target="hnXim7ay4U394bYLh8nl-134" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="1720" />
-              <mxPoint x="410" y="1720" />
+              <mxPoint x="360" y="1730" />
+              <mxPoint x="410" y="1730" />
               <mxPoint x="410" y="1710" />
               <mxPoint x="100" y="1710" />
             </Array>
